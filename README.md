@@ -97,22 +97,22 @@ The goal is to explore, clean, and transform the dataset while applying **EDA, F
 ## 📊 Example Visualizations
 
 ### Count of Videos by Category
-![Count of Videos by Category](Images\countofvideos.png)
+![Count of Videos by Category](Images/countofvideos.png)
 
 ### Top 10 Channels by Total Views
-![Top 10 Channels by Total Views](Images\Top10Channels.png)
+![Top 10 Channels by Total Views](Images/Top10Channels.png)
 
 ### Most Common Tags
-![Top 10 Video Tags](Images\Top10videotask.png)
+![Top 10 Video Tags](Images/Top10videotask.png)
 
 ### Publish Time vs View Count
-![Publish Time vs View Count](Images\Timevscount.png)
+![Publish Time vs View Count](Images/Timevscount.png)
 
 ### Video Duration Histogram
-![Histogram of Video Duration](Images\Videoduration.png)
+![Histogram of Video Duration](Images/Videoduration.png)
 
 ### Monthly Video Trends
-![Trending Videos per Month](Images\Videospermonth.png)
+![Trending Videos per Month](Images/Videospermonth.png)
 
 ---
 
